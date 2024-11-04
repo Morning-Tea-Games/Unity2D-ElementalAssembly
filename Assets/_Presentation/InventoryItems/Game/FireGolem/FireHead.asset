@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d45efcc14f6694fb9b2b88dcc2e7bf, type: 3}
+  m_Name: FireHead
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 2529764959318204663, guid: f4b200315005b424580a578061a38ca8, type: 3}
+  Sprite: {fileID: 21300000, guid: 4e283a4c2b2c5f04dac23992cefc8476, type: 3}
+  Type: 0
+  HeadKey: fire
+  BodyKey: fire
+  LegsKey: fire
